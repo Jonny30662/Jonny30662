@@ -7,7 +7,7 @@ Games Programmer
 * ✉️  You can contact me at [jonathan.archer359@virginmedia.com](mailto:jonathan.archer359@virginmedia.com)
 * 🧠  I'm learning Everything, there is always something new to learn, but currently doing more with C++ and Unreal Engine
 * 🤝  I'm open to collaborating on anything Star Wars related but love would love to work on an FPS
-* ⚡  If you are into Star Wars Check out my Survivor VR project (Tested on Quest 2 although should work on others)
+  
 
 ### Skills
 
