@@ -7,6 +7,7 @@ Games Programmer
 * ✉️  You can contact me at [jonathan.archer359@virginmedia.com](mailto:jonathan.archer359@virginmedia.com)
 * 🧠  I'm learning Everything, there is always something new to learn, but currently doing more with C++ and Unreal Engine
 * 🤝  I'm open to collaborating on anything Star Wars related but love would love to work on an FPS
+*  Some of my projects are not public as of the moment as they contain copyrighted material. I am working to remove the material and add the projects. Please contact me if you would like to see these projects in the meantime.
   
 
 ### Skills
